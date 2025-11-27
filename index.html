@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Mortality Map</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="data/us_states.js"></script>
+    <script src="data/canada_provinces.js"></script>
+    <script src="data/mock_data_script.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header / Top Bar -->
+        <header class="top-bar">
+            <div class="view-toggle">
+                <button id="btn-geo-view" class="toggle-btn active">Geographic View</button>
+                <button id="btn-compare-view" class="toggle-btn">Compare Data</button>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Sidebar Filters -->
+            <aside class="sidebar">
+                <div class="filter-group">
+                    <h3>View Level</h3>
+                    <label><input type="radio" name="view-level" value="country" checked> Country</label>
+                    <label><input type="radio" name="view-level" value="regional"> Regional</label>
+                </div>
+
+                <div class="filter-group">
+                    <h3>Filter By</h3>
+                    <h4>1. Economic Bracket</h4>
+                    <label><input type="checkbox" name="economic" value="Low" checked> Low</label>
+                    <label><input type="checkbox" name="economic" value="Med" checked> Med</label>
+                    <label><input type="checkbox" name="economic" value="High" checked> High</label>
+
+                    <h4>2. Education Level</h4>
+                    <p class="subtitle">(Undergrad)</p>
+                    <label><input type="checkbox" name="education" value="10%-" checked> 10%-</label>
+                    <label><input type="checkbox" name="education" value="10-25%" checked> 10-25%</label>
+                    <label><input type="checkbox" name="education" value="25%+" checked> 25%+</label>
+                </div>
+
+                <div id="compare-filters" class="filter-group hidden">
+                    <h3>Analysis Metric</h3>
+                    <button class="metric-btn active" data-metric="physician">Physician Density</button>
+                    <button class="metric-btn" data-metric="insurance">Insurance Coverage</button>
+                    <button class="metric-btn" data-metric="expenditure">Health Expenditure</button>
+                    <button class="metric-btn" data-metric="economic">Economic Bracket</button>
+                    <button class="metric-btn" data-metric="education">Education Level</button>
+                    <button class="metric-btn" data-metric="trend">Mortality x Years Trend</button>
+                </div>
+            </aside>
+
+            <!-- Dashboard Area -->
+            <main class="dashboard">
+                <!-- Geographic View -->
+                <div id="geographic-view" class="view-section active">
+                    <div class="slider-container">
+                        <div class="slider-header">
+                            <span>Year: <span id="year-display">2022</span></span>
+                            <span class="range-label">2000-2022</span>
+                        </div>
+                        <input type="range" id="year-slider" min="2000" max="2022" value="2022" step="1">
+                        <div class="slider-ticks">
+                            <span>2000</span>
+                            <span>2022</span>
+                        </div>
+                    </div>
+
+                    <div id="map-container">
+                        <!-- SVG Map will be injected here -->
+                    </div>
+
+                    <div class="legend-container">
+                        <h4>Mortality Rate (per 100,000)</h4>
+                        <div class="legend-bar"></div>
+                        <div class="legend-labels">
+                            <span>Low</span>
+                            <span>0-20</span>
+                            <span>20-40</span>
+                            <span>40-60</span>
+                            <span>60-80</span>
+                            <span>80-90</span>
+                            <span>90-100</span>
+                            <span>High</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Compare View -->
+                <div id="compare-view" class="view-section hidden">
+                    <div class="slider-container">
+                        <div class="slider-header">
+                            <span>Year: <span id="compare-year-display">2022</span></span>
+                            <span class="range-label">2000-2022</span>
+                        </div>
+                        <input type="range" id="compare-year-slider" min="2000" max="2022" value="2022" step="1">
+                        <div class="slider-ticks">
+                            <span>2000</span>
+                            <span>2022</span>
+                        </div>
+                    </div>
+                    <div id="chart-container">
+                        <!-- Charts will be injected here -->
+                        <div class="placeholder-chart">Select a comparison metric from the sidebar.</div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Tooltip -->
+    <div id="tooltip" class="tooltip hidden"></div>
+
+    <!-- Popup for Trend Analysis -->
+    <div id="trend-popup" class="popup hidden">
+        <div class="popup-content large">
+            <span class="close-btn">&times;</span>
+            <h3 id="popup-title">Further Analysis</h3>
+            <div id="popup-grid" class="popup-grid">
+                <div class="chart-box" id="chart-mortality"></div>
+                <div class="chart-box" id="chart-physician"></div>
+                <div class="chart-box" id="chart-insurance"></div>
+                <div class="chart-box" id="chart-expenditure"></div>
+            </div>
+            <div class="resizer top-left"></div>
+            <div class="resizer top-right"></div>
+            <div class="resizer bottom-left"></div>
+            <div class="resizer bottom-right"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

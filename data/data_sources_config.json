@@ -1,0 +1,150 @@
+{
+    "project_info": {
+        "description": "Data extraction configuration for Health & Economic Dashboard",
+        "target_file": "data/real_data.json",
+        "version": "1.0"
+    },
+    "time_range": {
+        "start_year": 2000,
+        "end_year": 2022,
+        "frequency": "annual"
+    },
+    "regions": {
+        "United States": [
+            "Alabama",
+            "Alaska",
+            "Arizona",
+            "Arkansas",
+            "California",
+            "Colorado",
+            "Connecticut",
+            "Delaware",
+            "District of Columbia",
+            "Florida",
+            "Georgia",
+            "Hawaii",
+            "Idaho",
+            "Illinois",
+            "Indiana",
+            "Iowa",
+            "Kansas",
+            "Kentucky",
+            "Louisiana",
+            "Maine",
+            "Maryland",
+            "Massachusetts",
+            "Michigan",
+            "Minnesota",
+            "Mississippi",
+            "Missouri",
+            "Montana",
+            "Nebraska",
+            "Nevada",
+            "New Hampshire",
+            "New Jersey",
+            "New Mexico",
+            "New York",
+            "North Carolina",
+            "North Dakota",
+            "Ohio",
+            "Oklahoma",
+            "Oregon",
+            "Pennsylvania",
+            "Rhode Island",
+            "South Carolina",
+            "South Dakota",
+            "Tennessee",
+            "Texas",
+            "Utah",
+            "Vermont",
+            "Virginia",
+            "Washington",
+            "West Virginia",
+            "Wisconsin",
+            "Wyoming"
+        ],
+        "Canada": [
+            "Alberta",
+            "British Columbia",
+            "Manitoba",
+            "New Brunswick",
+            "Newfoundland and Labrador",
+            "Northwest Territories",
+            "Nova Scotia",
+            "Nunavut",
+            "Ontario",
+            "Prince Edward Island",
+            "Quebec",
+            "Saskatchewan",
+            "Yukon"
+        ]
+    },
+    "metrics": [
+        {
+            "id": "mortality_rate",
+            "name": "Mortality Rate",
+            "description": "Age-adjusted death rate per 100,000 population",
+            "unit": "per_100k",
+            "source_hints": [
+                "CDC Wonder (US)",
+                "Statistics Canada (Canada)"
+            ],
+            "required": true
+        },
+        {
+            "id": "physician_density",
+            "name": "Physician Density",
+            "description": "Number of active physicians per 1,000 population",
+            "unit": "per_1k",
+            "source_hints": [
+                "AAMC (US)",
+                "CIHI (Canada)"
+            ],
+            "required": true
+        },
+        {
+            "id": "insurance_coverage",
+            "name": "Insurance Coverage",
+            "description": "Percentage of population with health insurance coverage",
+            "unit": "percent",
+            "source_hints": [
+                "Census Bureau (US)",
+                "Universal (Canada - assume 100% or track supplementary)"
+            ],
+            "required": true
+        },
+        {
+            "id": "health_expenditure",
+            "name": "Health Expenditure",
+            "description": "Per capita health expenditure",
+            "unit": "USD",
+            "source_hints": [
+                "CMS (US)",
+                "CIHI (Canada)"
+            ],
+            "required": true
+        },
+        {
+            "id": "economic_status",
+            "name": "Median Household Income",
+            "description": "Median household income, used to categorize into Low/Med/High",
+            "unit": "USD",
+            "source_hints": [
+                "Census Bureau (US)",
+                "Statistics Canada (Canada)"
+            ],
+            "required": true
+        },
+        {
+            "id": "education_level",
+            "name": "Bachelor's Degree or Higher",
+            "description": "Percentage of population aged 25+ with a Bachelor's degree or higher",
+            "unit": "percent",
+            "source_hints": [
+                "Census Bureau (US)",
+                "Statistics Canada (Canada)"
+            ],
+            "required": true
+        }
+    ]
+}

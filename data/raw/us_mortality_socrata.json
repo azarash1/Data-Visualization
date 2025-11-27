@@ -1,0 +1,988 @@
+[{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2813503","aadr":"731.9"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"53238","aadr":"917.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"4411","aadr":"708.8"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"57758","aadr":"678.5"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"32588","aadr":"900.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"268189","aadr":"618.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"38063","aadr":"663.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"31312","aadr":"651.2"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"9178","aadr":"749.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4965","aadr":"725.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"203636","aadr":"672.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"83098","aadr":"793.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"11390","aadr":"584.9"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"14011","aadr":"741.8"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"109721","aadr":"724.2"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"65597","aadr":"848.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"30530","aadr":"737.0"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"27063","aadr":"771.2"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"48212","aadr":"929.9"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"45804","aadr":"881.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"14676","aadr":"771.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"49926","aadr":"718.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"58803","aadr":"677.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"97602","aadr":"783.5"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"44371","aadr":"656.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"32280","aadr":"951.3"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"61876","aadr":"820.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"10200","aadr":"757.5"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"16878","aadr":"726.0"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"24657","aadr":"765.5"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"12504","aadr":"717.3"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"74846","aadr":"667.5"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"18673","aadr":"754.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"155358","aadr":"623.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"93157","aadr":"785.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6415","aadr":"692.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"123648","aadr":"849.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"40452","aadr":"902.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"36624","aadr":"717.2"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"135656","aadr":"777.3"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10157","aadr":"713.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"49441","aadr":"828.0"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7996","aadr":"736.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"70096","aadr":"897.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"198106","aadr":"735.7"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"18035","aadr":"700.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"6007","aadr":"714.9"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"68579","aadr":"719.4"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"56995","aadr":"688.6"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"23276","aadr":"957.1"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"52681","aadr":"722.0"}
+,{"year":"2017","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4768","aadr":"714.6"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"125104","aadr":"793.2"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"52466","aadr":"920.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"4494","aadr":"745.6"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"56645","aadr":"675.8"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"31756","aadr":"893.2"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"262240","aadr":"616.9"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"37530","aadr":"669.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"30543","aadr":"654.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"8874","aadr":"746.2"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5037","aadr":"766.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"197313","aadr":"666.6"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"81428","aadr":"800.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"10913","aadr":"572.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"13366","aadr":"725.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"107020","aadr":"724.3"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"63473","aadr":"835.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"29538","aadr":"721.1"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"26245","aadr":"756.8"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"47827","aadr":"938.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"44306","aadr":"870.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"14182","aadr":"759.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"48824","aadr":"717.6"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"56961","aadr":"669.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"96231","aadr":"785.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"43078","aadr":"648.1"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"31741","aadr":"948.9"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"59873","aadr":"808.2"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"9905","aadr":"743.2"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"16217","aadr":"707.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"23902","aadr":"762.6"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"12203","aadr":"721.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"73155","aadr":"668.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"18365","aadr":"753.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"154358","aadr":"640.7"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"90465","aadr":"782.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6242","aadr":"688.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"119572","aadr":"832.3"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"39276","aadr":"888.4"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"35778","aadr":"705.9"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"133040","aadr":"770.1"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9735","aadr":"690.1"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"48130","aadr":"829.8"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7845","aadr":"719.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"67857","aadr":"886.3"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"191966","aadr":"730.6"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2744248","aadr":"728.8"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"17913","aadr":"714.7"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5909","aadr":"712.8"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"66473","aadr":"715.5"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"54769","aadr":"672.0"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"22732","aadr":"943.3"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"51815","aadr":"717.9"}
+,{"year":"2016","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4722","aadr":"720.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"51909","aadr":"924.5"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"4316","aadr":"747.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"54299","aadr":"671.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"31617","aadr":"901.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"259206","aadr":"621.6"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"36349","aadr":"665.0"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"30535","aadr":"656.1"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"8582","aadr":"741.5"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4871","aadr":"748.6"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"191737","aadr":"662.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"79942","aadr":"808.1"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"11053","aadr":"588.2"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"13026","aadr":"727.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"106872","aadr":"728.3"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"62713","aadr":"833.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"29600","aadr":"724.6"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"26664","aadr":"774.1"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"46564","aadr":"924.7"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"43716","aadr":"874.2"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"14479","aadr":"783.5"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"47247","aadr":"705.7"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"57806","aadr":"684.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"95140","aadr":"784.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"42800","aadr":"653.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"31783","aadr":"963.7"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"59871","aadr":"816.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"9942","aadr":"762.7"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"16740","aadr":"739.2"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"22879","aadr":"757.2"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"11984","aadr":"720.6"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"72271","aadr":"666.0"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"17685","aadr":"741.5"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"153628","aadr":"644.0"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"89133","aadr":"789.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6223","aadr":"696.8"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"118188","aadr":"828.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"39422","aadr":"904.3"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"35705","aadr":"722.3"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"132598","aadr":"768.3"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10163","aadr":"721.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"47198","aadr":"840.0"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7731","aadr":"715.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"66570","aadr":"886.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"189654","aadr":"745.0"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2712630","aadr":"733.1"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"17334","aadr":"712.1"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5919","aadr":"714.7"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"65577","aadr":"721.6"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"54595","aadr":"687.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"22752","aadr":"943.4"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"51264","aadr":"715.9"}
+,{"year":"2015","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4778","aadr":"748.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9723","aadr":"747.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"50215","aadr":"909.1"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"4128","aadr":"736.8"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"51538","aadr":"661.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"30467","aadr":"883.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"245929","aadr":"605.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"35237","aadr":"664.4"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29860","aadr":"646.5"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"8260","aadr":"734.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4723","aadr":"743.8"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"185956","aadr":"662.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"76887","aadr":"801.9"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"10767","aadr":"588.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"12613","aadr":"723.8"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"105293","aadr":"726.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"60940","aadr":"822.3"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"29190","aadr":"722.9"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"25793","aadr":"759.3"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"44838","aadr":"906.3"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"43869","aadr":"894.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"13510","aadr":"739.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"45867","aadr":"699.5"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"55200","aadr":"663.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"93914","aadr":"783.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"41445","aadr":"647.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"30557","aadr":"937.6"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"58320","aadr":"807.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"9381","aadr":"732.1"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15978","aadr":"718.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"21793","aadr":"749.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"11516","aadr":"706.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"71316","aadr":"665.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"17579","aadr":"749.6"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"149944","aadr":"636.5"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"85367","aadr":"775.9"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6184","aadr":"692.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"114509","aadr":"810.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"38464","aadr":"897.5"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"34151","aadr":"706.7"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"128434","aadr":"750.2"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9770","aadr":"700.9"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"45454","aadr":"829.1"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7507","aadr":"710.4"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"64661","aadr":"880.0"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"183912","aadr":"745.3"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2626418","aadr":"724.6"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"16719","aadr":"709.6"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5623","aadr":"694.8"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"63598","aadr":"717.5"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"52099","aadr":"672.9"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"22186","aadr":"929.1"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"50291","aadr":"712.1"}
+,{"year":"2014","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4666","aadr":"742.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"50189","aadr":"925.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3997","aadr":"724.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"50534","aadr":"674.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"30437","aadr":"893.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"248359","aadr":"630.1"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"33712","aadr":"655.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29632","aadr":"646.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7967","aadr":"726.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4719","aadr":"752.0"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"181112","aadr":"663.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"75088","aadr":"806.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"10505","aadr":"590.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"12434","aadr":"730.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"103401","aadr":"724.0"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"60716","aadr":"832.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28948","aadr":"723.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"25414","aadr":"757.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"43759","aadr":"899.9"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"43270","aadr":"897.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"13547","aadr":"754.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"45689","aadr":"710.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"54567","aadr":"663.5"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"92408","aadr":"782.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"40987","aadr":"651.0"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"30703","aadr":"959.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"57444","aadr":"807.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"9511","aadr":"761.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15754","aadr":"714.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"21468","aadr":"769.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10897","aadr":"679.1"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"71403","aadr":"676.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"16805","aadr":"731.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"150919","aadr":"649.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"83329","aadr":"777.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6233","aadr":"709.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"113258","aadr":"811.2"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"38384","aadr":"910.7"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"33939","aadr":"717.5"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"129123","aadr":"761.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9792","aadr":"709.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"44582","aadr":"837.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7099","aadr":"679.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"63406","aadr":"881.1"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"179183","aadr":"751.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2596993","aadr":"731.9"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"16366","aadr":"710.4"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5639","aadr":"710.6"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"62716","aadr":"724.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"51264","aadr":"679.3"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21843","aadr":"923.8"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"50026","aadr":"720.1"}
+,{"year":"2013","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4516","aadr":"731.7"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"39439","aadr":"873.9"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6826","aadr":"712.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"49301","aadr":"926.7"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3912","aadr":"731.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"49549","aadr":"682.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"30117","aadr":"897.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"242554","aadr":"630.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"33133","aadr":"665.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29316","aadr":"648.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7875","aadr":"745.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4650","aadr":"757.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"177291","aadr":"669.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"72847","aadr":"808.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"10274","aadr":"586.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"11998","aadr":"726.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"102433","aadr":"728.7"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"59332","aadr":"827.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28389","aadr":"718.3"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"25145","aadr":"761.0"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"43664","aadr":"916.3"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"42320","aadr":"898.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12870","aadr":"730.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"44477","aadr":"709.1"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"53177","aadr":"657.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"89901","aadr":"774.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"40016","aadr":"649.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"29544","aadr":"942.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"56094","aadr":"803.0"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8976","aadr":"732.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15659","aadr":"719.0"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"20785","aadr":"774.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10730","aadr":"687.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"70534","aadr":"677.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"16710","aadr":"744.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"148991","aadr":"652.1"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"81925","aadr":"786.4"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6038","aadr":"701.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"112498","aadr":"817.9"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"36870","aadr":"891.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"32759","aadr":"706.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"126981","aadr":"759.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9354","aadr":"686.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"43198","aadr":"835.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7333","aadr":"712.3"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"61956","aadr":"880.6"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"174187","aadr":"753.3"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2543279","aadr":"732.8"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"15676","aadr":"700.0"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5491","aadr":"700.1"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"61564","aadr":"730.2"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"50105","aadr":"681.5"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21915","aadr":"939.3"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"48384","aadr":"707.8"}
+,{"year":"2012","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4481","aadr":"748.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"57087","aadr":"905.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"48681","aadr":"933.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3849","aadr":"747.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"48381","aadr":"688.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"29653","aadr":"895.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"239942","aadr":"641.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"32563","aadr":"677.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29526","aadr":"660.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7845","aadr":"764.2"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4589","aadr":"755.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"173976","aadr":"677.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"71248","aadr":"815.7"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9923","aadr":"584.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"12027","aadr":"745.0"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"101906","aadr":"737.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"58202","aadr":"825.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28184","aadr":"722.7"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"25116","aadr":"767.2"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"42626","aadr":"910.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"40890","aadr":"886.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"13001","aadr":"752.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43745","aadr":"715.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"53710","aadr":"676.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"89508","aadr":"784.2"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"39820","aadr":"659.2"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"29278","aadr":"956.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"55848","aadr":"812.0"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"9115","aadr":"760.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15476","aadr":"719.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"20343","aadr":"789.7"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10823","aadr":"710.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"70558","aadr":"690.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"16452","aadr":"748.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"149174","aadr":"665.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"79882","aadr":"790.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5965","aadr":"697.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"111427","aadr":"821.8"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"37175","aadr":"910.9"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"32788","aadr":"724.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"128237","aadr":"776.0"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9581","aadr":"707.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"42072","aadr":"839.5"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7314","aadr":"720.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"60541","aadr":"879.0"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"168640","aadr":"751.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2515458","aadr":"741.3"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"15266","aadr":"699.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5433","aadr":"711.0"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"60804","aadr":"741.6"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"49691","aadr":"690.4"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21867","aadr":"953.2"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"48410","aadr":"721.1"}
+,{"year":"2011","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4387","aadr":"754.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"48038","aadr":"939.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3728","aadr":"771.5"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"46762","aadr":"693.1"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28916","aadr":"892.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"234012","aadr":"646.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"31465","aadr":"682.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"28692","aadr":"652.9"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7706","aadr":"769.9"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4672","aadr":"792.4"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"173791","aadr":"701.1"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"71263","aadr":"845.4"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9617","aadr":"589.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"11429","aadr":"731.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"99931","aadr":"736.9"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"56743","aadr":"820.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27745","aadr":"721.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24502","aadr":"762.2"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"41983","aadr":"915.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"40667","aadr":"903.8"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12750","aadr":"749.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43325","aadr":"728.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"52583","aadr":"675.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"88021","aadr":"786.2"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"38972","aadr":"661.5"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28965","aadr":"962.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"55281","aadr":"819.5"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8827","aadr":"754.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15171","aadr":"717.8"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"19623","aadr":"795.4"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10201","aadr":"690.4"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"69495","aadr":"691.1"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"15931","aadr":"749.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"146432","aadr":"665.5"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"78773","aadr":"804.9"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5944","aadr":"704.3"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"108711","aadr":"815.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"36529","aadr":"915.5"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31890","aadr":"723.1"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"124596","aadr":"765.9"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9579","aadr":"721.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"41614","aadr":"854.8"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7100","aadr":"715.1"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"59578","aadr":"890.8"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"166527","aadr":"772.3"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2468435","aadr":"747.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"14776","aadr":"703.2"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5380","aadr":"718.7"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"59032","aadr":"741.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"48146","aadr":"692.3"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21275","aadr":"933.6"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"47308","aadr":"719.0"}
+,{"year":"2010","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4438","aadr":"778.8"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"160548","aadr":"803.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2423712","aadr":"775.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"14143","aadr":"729.4"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5179","aadr":"733.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37138","aadr":"663.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28255","aadr":"973.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54166","aadr":"837.7"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8624","aadr":"775.4"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15263","aadr":"750.4"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"18687","aadr":"822.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"47470","aadr":"940.2"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3618","aadr":"763.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"45816","aadr":"693.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28673","aadr":"896.4"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"232736","aadr":"655.5"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"31173","aadr":"689.7"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"28585","aadr":"659.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7534","aadr":"768.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"4834","aadr":"833.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"169924","aadr":"700.1"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"69712","aadr":"842.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9914","aadr":"621.9"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"11098","aadr":"725.1"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"100056","aadr":"746.9"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55973","aadr":"820.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27544","aadr":"723.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24024","aadr":"757.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"41380","aadr":"912.5"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"40282","aadr":"907.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12594","aadr":"752.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43843","aadr":"750.2"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"52308","aadr":"681.4"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86455","aadr":"783.1"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37851","aadr":"652.1"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28275","aadr":"950.5"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54263","aadr":"815.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8730","aadr":"758.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"14810","aadr":"710.9"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"19224","aadr":"794.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10100","aadr":"691.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"68277","aadr":"689.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"15643","aadr":"749.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"146475","aadr":"674.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"77117","aadr":"804.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5914","aadr":"712.7"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"107156","aadr":"814.5"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"35601","aadr":"903.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31636","aadr":"728.4"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"124780","aadr":"775.3"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9395","aadr":"711.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"40449","aadr":"846.9"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6923","aadr":"706.2"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"58288","aadr":"885.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"163249","aadr":"772.1"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2437163","aadr":"749.6"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"14138","aadr":"686.5"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5034","aadr":"683.2"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"58653","aadr":"750.8"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"48270","aadr":"708.4"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21386","aadr":"947.7"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"45697","aadr":"703.0"}
+,{"year":"2009","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4283","aadr":"769.6"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10303","aadr":"733.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"69662","aadr":"726.9"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"15482","aadr":"778.6"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"147680","aadr":"698.9"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"76046","aadr":"838.5"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5561","aadr":"680.4"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"47707","aadr":"959.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3494","aadr":"761.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"45823","aadr":"714.5"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"29322","aadr":"927.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"234766","aadr":"677.9"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"31274","aadr":"715.8"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"28794","aadr":"671.9"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7622","aadr":"793.5"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5140","aadr":"897.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"170703","aadr":"718.1"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"69640","aadr":"864.1"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9501","aadr":"613.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10962","aadr":"736.8"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"103471","aadr":"782.0"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"56752","aadr":"843.8"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28541","aadr":"752.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24975","aadr":"794.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"41329","aadr":"926.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"41220","aadr":"946.0"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12541","aadr":"759.4"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43892","aadr":"769.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"53518","aadr":"706.1"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"88445","aadr":"812.0"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"38499","aadr":"674.0"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28984","aadr":"982.8"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"56578","aadr":"861.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8913","aadr":"788.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15461","aadr":"751.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"19335","aadr":"828.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10268","aadr":"715.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"70026","aadr":"718.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"16005","aadr":"788.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"148698","aadr":"693.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"77283","aadr":"828.1"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5871","aadr":"713.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"109767","aadr":"844.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"37014","aadr":"956.5"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31967","aadr":"753.2"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"127462","aadr":"799.1"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9738","aadr":"742.9"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"40289","aadr":"867.0"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7083","aadr":"731.9"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"58820","aadr":"913.4"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"164914","aadr":"803.6"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2471984","aadr":"774.9"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"14040","aadr":"703.8"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5211","aadr":"722.5"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"59100","aadr":"776.7"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"48627","aadr":"734.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21557","aadr":"964.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46815","aadr":"730.3"}
+,{"year":"2008","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4227","aadr":"778.9"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"106534","aadr":"831.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"36032","aadr":"945.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31403","aadr":"756.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"46696","aadr":"957.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3463","aadr":"780.6"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"45554","aadr":"731.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28191","aadr":"906.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"233720","aadr":"691.7"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"29993","aadr":"708.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"28651","aadr":"680.5"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7327","aadr":"786.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5188","aadr":"911.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"168096","aadr":"723.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"68331","aadr":"872.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9495","aadr":"631.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10822","aadr":"747.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"100503","aadr":"770.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"54000","aadr":"817.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27221","aadr":"724.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24491","aadr":"787.8"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"40090","aadr":"915.3"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"39966","aadr":"937.5"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12493","aadr":"771.6"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43757","aadr":"784.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"52917","aadr":"709.8"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86721","aadr":"808.1"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"58225","aadr":"784.0"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"47323","aadr":"731.9"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21086","aadr":"954.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46241","aadr":"734.2"}
+,{"year":"2007","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4266","aadr":"806.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"46977","aadr":"979.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3354","aadr":"787.6"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"46365","aadr":"767.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"27901","aadr":"909.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"237126","aadr":"718.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"29521","aadr":"720.9"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29260","aadr":"704.6"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7204","aadr":"795.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5344","aadr":"951.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"170066","aadr":"745.6"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"67808","aadr":"890.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9432","aadr":"643.4"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10613","aadr":"756.0"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"102171","aadr":"794.4"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55622","aadr":"856.8"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27362","aadr":"736.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24553","aadr":"802.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"40102","aadr":"932.3"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"40045","aadr":"960.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12294","aadr":"775.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43582","aadr":"795.9"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"53450","aadr":"726.8"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86042","aadr":"816.0"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37028","aadr":"675.6"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28564","aadr":"999.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54681","aadr":"859.0"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8472","aadr":"782.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"14899","aadr":"743.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"18872","aadr":"864.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10060","aadr":"733.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"70356","aadr":"744.9"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"15296","aadr":"793.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"148806","aadr":"713.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"74716","aadr":"849.3"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5868","aadr":"724.4"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"106825","aadr":"846.6"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"35427","aadr":"942.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31380","aadr":"773.3"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"125539","aadr":"808.4"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9690","aadr":"749.1"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"38761","aadr":"886.8"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7084","aadr":"752.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"56838","aadr":"921.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"157150","aadr":"807.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2426264","aadr":"791.8"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"13764","aadr":"733.7"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5048","aadr":"728.0"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"57690","aadr":"795.0"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"46120","aadr":"731.2"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"20672","aadr":"947.5"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46153","aadr":"745.3"}
+,{"year":"2006","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4311","aadr":"831.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"47090","aadr":"1001.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3168","aadr":"762.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"45827","aadr":"786.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28055","aadr":"931.5"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"237037","aadr":"730.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"29627","aadr":"752.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29467","aadr":"717.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7472","aadr":"851.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5483","aadr":"970.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"170791","aadr":"761.9"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"66736","aadr":"910.5"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9136","aadr":"638.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10556","aadr":"781.2"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"103974","aadr":"817.5"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55675","aadr":"874.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27811","aadr":"757.5"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24682","aadr":"816.8"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"40223","aadr":"954.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"44355","aadr":"1023.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12868","aadr":"828.2"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43892","aadr":"818.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"53874","aadr":"741.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86867","aadr":"838.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37535","aadr":"698.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"29196","aadr":"1028.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54656","aadr":"873.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8528","aadr":"807.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"14963","aadr":"757.8"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"19029","aadr":"904.8"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10194","aadr":"766.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"71963","aadr":"772.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"14983","aadr":"800.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"152427","aadr":"738.0"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"74638","aadr":"881.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5744","aadr":"716.3"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"109031","aadr":"879.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"36180","aadr":"981.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31091","aadr":"787.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"129532","aadr":"844.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10007","aadr":"781.2"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"38707","aadr":"920.9"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7086","aadr":"770.7"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"57260","aadr":"956.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"156457","aadr":"832.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2448017","aadr":"815.0"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"13432","aadr":"749.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5066","aadr":"751.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"57855","aadr":"817.4"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"46203","aadr":"757.6"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"20780","aadr":"965.1"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46709","aadr":"765.9"}
+,{"year":"2005","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4099","aadr":"806.5"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"34483","aadr":"945.6"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"46121","aadr":"998.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3051","aadr":"756.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"43198","aadr":"771.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"27528","aadr":"927.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"232525","aadr":"734.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"28309","aadr":"738.5"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29314","aadr":"725.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7143","aadr":"838.2"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5454","aadr":"972.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"169008","aadr":"771.6"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"65818","aadr":"926.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"9030","aadr":"652.9"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10028","aadr":"766.2"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"102670","aadr":"816.8"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"54211","aadr":"864.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"26897","aadr":"738.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"23818","aadr":"798.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"38646","aadr":"935.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"42215","aadr":"989.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12443","aadr":"813.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43232","aadr":"823.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"54511","aadr":"758.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"85169","aadr":"834.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37034","aadr":"699.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"27871","aadr":"996.6"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"53950","aadr":"872.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8094","aadr":"783.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"14657","aadr":"751.9"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"17929","aadr":"887.6"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"10111","aadr":"778.9"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"71371","aadr":"775.8"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"14298","aadr":"786.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"152681","aadr":"748.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"72384","aadr":"876.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5601","aadr":"702.2"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"106288","aadr":"867.1"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"30313","aadr":"786.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"127640","aadr":"841.3"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9769","aadr":"766.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"37276","aadr":"909.5"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6833","aadr":"752.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"55829","aadr":"952.8"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"152870","aadr":"835.9"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2397615","aadr":"813.7"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"13331","aadr":"768.8"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"4995","aadr":"749.4"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"56550","aadr":"820.5"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"44770","aadr":"751.9"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"20793","aadr":"973.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"45600","aadr":"760.0"}
+,{"year":"2004","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"3955","aadr":"794.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"46716","aadr":"1020.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3180","aadr":"843.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"43392","aadr":"798.4"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"27918","aadr":"948.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"239371","aadr":"768.4"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"29506","aadr":"792.0"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29627","aadr":"739.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7070","aadr":"852.9"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5573","aadr":"993.0"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"168657","aadr":"786.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"66478","aadr":"956.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"8978","aadr":"667.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"10380","aadr":"812.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"105325","aadr":"846.6"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55968","aadr":"902.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28062","aadr":"776.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24593","aadr":"829.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"40241","aadr":"986.4"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"42719","aadr":"1013.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12540","aadr":"829.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"44499","aadr":"864.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"56291","aadr":"788.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86728","aadr":"860.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37620","aadr":"720.9"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28489","aadr":"1031.6"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"55582","aadr":"907.0"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8467","aadr":"837.6"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15465","aadr":"798.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"17858","aadr":"927.3"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"9708","aadr":"767.3"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"73689","aadr":"807.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"14805","aadr":"832.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"155877","aadr":"771.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"73459","aadr":"909.0"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6090","aadr":"776.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"109110","aadr":"898.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"35721","aadr":"986.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"30912","aadr":"816.9"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"129769","aadr":"860.8"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10039","aadr":"798.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"38112","aadr":"952.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7132","aadr":"796.6"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"57313","aadr":"994.0"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"154870","aadr":"865.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2448288","aadr":"843.5"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"13412","aadr":"793.6"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5120","aadr":"779.7"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"58282","aadr":"863.3"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"45920","aadr":"789.2"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21306","aadr":"1003.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46177","aadr":"780.1"}
+,{"year":"2003","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4172","aadr":"857.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"158118","aadr":"791.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"46069","aadr":"1013.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"3030","aadr":"802.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"42816","aadr":"811.2"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28513","aadr":"975.2"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"234565","aadr":"770.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"29210","aadr":"804.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"30122","aadr":"766.1"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"6861","aadr":"849.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5851","aadr":"1034.1"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"167814","aadr":"796.2"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"65449","aadr":"961.6"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"8801","aadr":"673.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"9923","aadr":"798.8"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"106667","aadr":"866.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55396","aadr":"906.1"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27978","aadr":"779.9"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"25021","aadr":"851.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"40697","aadr":"1009.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"41984","aadr":"1008.5"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12694","aadr":"853.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43970","aadr":"872.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"56928","aadr":"806.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"87795","aadr":"885.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"38510","aadr":"751.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28853","aadr":"1051.6"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"55940","aadr":"922.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8506","aadr":"854.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15738","aadr":"820.2"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"16927","aadr":"922.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"9853","aadr":"796.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"74009","aadr":"821.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"14344","aadr":"823.8"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"72027","aadr":"912.6"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5892","aadr":"755.5"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"109766","aadr":"916.7"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"35502","aadr":"986.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"31119","aadr":"839.6"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"130223","aadr":"874.1"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10246","aadr":"823.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"37736","aadr":"964.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6898","aadr":"778.6"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"56606","aadr":"995.3"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"155524","aadr":"888.4"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2443387","aadr":"855.9"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"13116","aadr":"794.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5075","aadr":"786.8"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"57196","aadr":"865.9"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"45338","aadr":"795.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21016","aadr":"999.0"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46981","aadr":"806.1"}
+,{"year":"2002","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4174","aadr":"878.2"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"9815","aadr":"809.3"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"45316","aadr":"1002.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"2974","aadr":"831.3"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"41058","aadr":"795.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"27759","aadr":"955.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"234044","aadr":"783.2"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"28294","aadr":"796.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29827","aadr":"772.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"7112","aadr":"903.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"5951","aadr":"1049.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"167269","aadr":"806.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"64485","aadr":"966.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"8394","aadr":"660.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"9753","aadr":"803.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"105430","aadr":"863.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55198","aadr":"912.7"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"27791","aadr":"780.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24647","aadr":"844.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"39861","aadr":"997.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"41757","aadr":"1013.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12421","aadr":"848.7"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43839","aadr":"888.0"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"56754","aadr":"811.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86424","aadr":"884.0"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37735","aadr":"748.2"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28259","aadr":"1034.3"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54982","aadr":"913.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8265","aadr":"844.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15174","aadr":"796.6"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"16285","aadr":"923.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"74710","aadr":"840.3"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"14129","aadr":"829.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"159240","aadr":"806.6"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"70934","aadr":"917.1"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6048","aadr":"780.2"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"108027","aadr":"912.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"34682","aadr":"968.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"30158","aadr":"830.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"129729","aadr":"878.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10021","aadr":"816.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"36612","aadr":"949.6"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6923","aadr":"790.0"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"55151","aadr":"979.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"152779","aadr":"888.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2416425","aadr":"858.8"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"12662","aadr":"785.2"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5201","aadr":"819.6"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"56280","aadr":"869.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"44642","aadr":"799.4"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"20967","aadr":"1000.9"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46628","aadr":"812.5"}
+,{"year":"2001","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4029","aadr":"858.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8096","aadr":"843.3"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"14992","aadr":"794.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"45062","aadr":"1004.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"2914","aadr":"869.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"40500","aadr":"810.4"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"28217","aadr":"977.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"229551","aadr":"787.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"27288","aadr":"792.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"30129","aadr":"793.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"6875","aadr":"897.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"6001","aadr":"1061.2"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"164395","aadr":"807.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"63870","aadr":"981.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"8290","aadr":"675.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"9563","aadr":"809.4"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"106634","aadr":"883.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55469","aadr":"929.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28060","aadr":"794.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24717","aadr":"850.5"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"39504","aadr":"998.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"41138","aadr":"1006.3"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12354","aadr":"859.4"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43753","aadr":"908.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"56681","aadr":"817.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"86953","aadr":"904.2"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"37690","aadr":"760.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28654","aadr":"1051.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"54865","aadr":"920.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"15261","aadr":"918.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"9697","aadr":"815.5"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"74800","aadr":"852.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"13425","aadr":"808.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"158203","aadr":"813.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"71935","aadr":"952.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"5856","aadr":"761.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"108125","aadr":"923.5"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"35079","aadr":"983.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"29552","aadr":"830.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"130813","aadr":"891.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"10027","aadr":"823.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"36948","aadr":"980.2"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"7021","aadr":"805.7"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"55246","aadr":"996.9"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"149939","aadr":"891.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2403351","aadr":"869.0"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"12364","aadr":"788.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"5127","aadr":"821.8"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"56282","aadr":"890.4"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"43941","aadr":"804.6"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21114","aadr":"1011.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46461","aadr":"820.1"}
+,{"year":"2000","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"3920","aadr":"851.8"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Montana","deaths":"8128","aadr":"857.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alabama","deaths":"44806","aadr":"1009.3"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Alaska","deaths":"2708","aadr":"838.9"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arizona","deaths":"40050","aadr":"818.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Arkansas","deaths":"27925","aadr":"975.3"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"California","deaths":"229380","aadr":"802.3"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Colorado","deaths":"27114","aadr":"801.8"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Connecticut","deaths":"29446","aadr":"783.2"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Delaware","deaths":"6666","aadr":"881.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"District of Columbia","deaths":"6076","aadr":"1087.3"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Florida","deaths":"163224","aadr":"812.8"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Georgia","deaths":"62028","aadr":"964.9"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Hawaii","deaths":"8270","aadr":"688.8"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Idaho","deaths":"9579","aadr":"825.2"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Illinois","deaths":"108436","aadr":"905.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Indiana","deaths":"55303","aadr":"934.7"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Iowa","deaths":"28411","aadr":"806.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kansas","deaths":"24472","aadr":"848.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Kentucky","deaths":"39321","aadr":"1004.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Louisiana","deaths":"41238","aadr":"1021.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maine","deaths":"12261","aadr":"865.9"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Maryland","deaths":"43089","aadr":"907.0"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Massachusetts","deaths":"55840","aadr":"814.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Michigan","deaths":"87232","aadr":"916.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Minnesota","deaths":"38537","aadr":"784.5"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Mississippi","deaths":"28185","aadr":"1043.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Missouri","deaths":"55931","aadr":"945.0"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nebraska","deaths":"15579","aadr":"830.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Nevada","deaths":"15082","aadr":"935.9"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Hampshire","deaths":"9537","aadr":"815.5"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Jersey","deaths":"73981","aadr":"853.7"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"New Mexico","deaths":"13676","aadr":"842.2"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"New York","deaths":"159927","aadr":"833.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Carolina","deaths":"69600","aadr":"933.0"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"North Dakota","deaths":"6103","aadr":"796.8"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Ohio","deaths":"108517","aadr":"934.0"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oklahoma","deaths":"34700","aadr":"979.0"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Oregon","deaths":"29422","aadr":"837.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Pennsylvania","deaths":"130283","aadr":"896.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Rhode Island","deaths":"9708","aadr":"807.5"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Carolina","deaths":"36053","aadr":"973.5"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"South Dakota","deaths":"6953","aadr":"808.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Tennessee","deaths":"53765","aadr":"980.4"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Texas","deaths":"146858","aadr":"886.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"United States","deaths":"2391399","aadr":"875.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Utah","deaths":"12058","aadr":"781.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Vermont","deaths":"4993","aadr":"812.9"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Virginia","deaths":"55320","aadr":"889.6"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Washington","deaths":"43865","aadr":"815.1"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"West Virginia","deaths":"21049","aadr":"1012.3"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wisconsin","deaths":"46672","aadr":"831.5"}
+,{"year":"1999","_113_cause_name":"All Causes","cause_name":"All causes","state":"Wyoming","deaths":"4042","aadr":"895.4"}]
